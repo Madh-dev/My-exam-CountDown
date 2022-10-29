@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className='foot'>
-        <b>
+        <b style={{color: 'white'}}>
             While you are reading, don't forget to pray
         </b>
         <p>May God helps you in your reading and makes this a successful examination</p>
